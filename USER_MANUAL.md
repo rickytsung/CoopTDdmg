@@ -18,7 +18,7 @@
 
 ## 1. Overview & Core Architecture
 
-**RoxyDPS** is an external, read-only Damage & DPS meter designed for *CoopTD / Lucky Defense* (`cooptd`) running on Android emulators (e.g., MuMu Player 12, LDPlayer).
+**RoxyDPS** is an external, read-only Damage & DPS meter designed for *CoopTD * (`cooptd`) running on Android emulators (e.g., MuMu Player 12, LDPlayer).
 
 Unlike traditional game monitoring tools that inject code via LSPosed, Frida, or Zygisk, **RoxyDPS uses a 100% external memory reading architecture**:
 * **Zero Process Injection**: The game process (`cooptd`) is never touched, modified, or hooked.
