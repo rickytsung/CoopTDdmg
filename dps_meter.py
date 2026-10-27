@@ -67,7 +67,7 @@ def format_damage(val: float) -> str:
 class DpsMeterApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("RoxyDPS - CoopTD Damage Meter (x.xxx Units)")
+        self.root.title("RoxyDPS - CoopTD Damage Meter (v0.5)")
         self.root.geometry("760x620")
         self.root.minsize(620, 480)
         self.root.configure(bg="#181825")
